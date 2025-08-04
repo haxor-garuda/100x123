@@ -36,7 +36,11 @@ const Sitemap = ({ language }: SitemapProps) => {
   ];
 
   const externalLinks = [
+<<<<<<< HEAD
     { name: "Instagram", href: "https://www.instagram.com/100xdropship?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==", description: "Social media" },
+=======
+    { name: "Instagram", href: "https://www.instagram.com/100xdropship/", description: "Social media" },
+>>>>>>> 638c8a0fbdc9f20f91c41a18ca882679088769a4
     { name: "WhatsApp", href: "https://wa.me/918858185272", description: "Direct messaging" },
     { name: "Email", href: "mailto:100xdropship@gmail.com", description: "Email contact" },
   ];
